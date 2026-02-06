@@ -63,7 +63,7 @@ CREATE TABLE access_control (
 
 INSERT INTO users (name, email, role)
 VALUES ('Fatin Inarah', 'inarahfatin518@gmail.com', 'admin'),
-('Aisyah', 'aisyahsafiah@gmail.com', 'member'),
+('Aisyah', 'aisyah_safiah@gmail.com', 'member'),
 ('YangYang', 'xiaoyang123@gmail.com', 'member'),
 ('Bailu', 'bailu67@gmail.com', 'member');
 
